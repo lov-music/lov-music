@@ -328,7 +328,7 @@ html {
 
 
 .auto-resizable-iframe {
-  max-width: 1200px;
+  max-width: 40px;
   margin: 0px auto;
 }
 
